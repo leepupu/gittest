@@ -1,9 +1,7 @@
-#include <iostream>
+#include "StdAfx.h"
 
-using namespace std;
-
-int main()
+int main( )
 {
-    cout << "Hello!\n";
+    cout << "Hello Git!" << endl;
     return 0;
 }
